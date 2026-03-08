@@ -184,6 +184,8 @@ XGBoost achieved the best claim prediction performance:
 
 This indicates strong separation between claim vs non-claim policyholders.
 
+Here is the [LC, HALC, CS prediction](https://github.com/plvu99/Car-Insurance-Loss-Analytics/blob/main/insurance_prediction.csv).
+
 ## ✍️ Business Recommendations
 
 ### 1. Implement risk-based pricing

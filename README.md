@@ -22,9 +22,9 @@ One of the biggest challenges in insurance is setting premiums that are both fai
 
 Accurately predicting expected claim losses allows insurers to:
 
-* Price policies according to risk
-* Segment customers more effectively
-* Maintain a balanced risk portfolio
+* price policies according to risk
+* segment customers more effectively
+* maintain a balanced risk portfolio
 
 However, insurance data presents several challenges:
 
@@ -43,20 +43,20 @@ The dataset contains insurance policy transactions with demographic, policy, and
 Key variables include:
 
 **Policyholder characteristics**
-* policy tenure
-* number of active policies
-* claim history
+* Policy tenure
+* Number of active policies
+* Claim history
 
 **Vehicle information**
-* vehicle type
-* vehicle value
-* vehicle power
-* cylinder capacity
+* Vehicle type
+* Vehicle value
+* Vehicle power
+* Cylinder capacity
 
 **Insurance behavior**
-* claim counts
-* claim costs
-* payment methods
+* Claim counts
+* Claim costs
+* Payment methods
 
 The dataset also includes variables needed to compute the main targets:
 
@@ -206,6 +206,8 @@ Ensemble models such as LightGBM and XGBoost can be integrated into pricing engi
 
 ## ⚙ Tools & Techniques
 
-* Python (Pandas, NumPy, Matplotlib, Seaborn)
-* Machine Learning (LightGBM, XGBoost, Tweedie Regression, Neural Networks, Random Forest, Logistic Regression)
-* Model Evaluation (Mean Squared Error, ROC-AUC, Cross-Validation)
+* Python
+* Data preprocessing (Pandas, NumPy)
+* Data visualization (Matplotlib, Seaborn)
+* Machine learning (LightGBM, XGBoost, Tweedie Regression, Neural Networks, Random Forest, Logistic Regression)
+* Model evaluation (Mean Squared Error, ROC-AUC, Cross-Validation)
